@@ -1,0 +1,9 @@
+{
+  "ssid": "XSSIDX",
+  "password": "XPASSWORDX",
+  "devicename": "TetraDevDevice",
+  "WSPixel":"50",
+  "mqtt_server":"MQTTHOST",
+  "mqtt_user":"XMQTTUSERX",
+  "mqtt_pwd":"XMQTTPWDX"
+}
